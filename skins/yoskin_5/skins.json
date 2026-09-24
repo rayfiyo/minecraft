@@ -1,0 +1,80 @@
+{
+  "geometry": "geometry.json",
+  "serialize_name": "yoskin",
+  "localization_name": "yoskin",
+  "skins": [
+    {
+      "localization_name": "yorugoHoodie",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "yorugo_hoodie.png",
+      "type": "free"
+    },
+
+    {
+      "localization_name": "Invisible",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "invisible.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Creeper",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "creeper.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Chicken",
+      "geometry": "geometry.chicken",
+      "texture": "chicken.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Wolf",
+      "geometry": "geometry.wolf",
+      "texture": "wolf.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zombie",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "zombie.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ZombiePigman",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "zombie_pigman.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MiniChick",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "mini_chick.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "yorugoHeadOnly",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "yorugo_head_only.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "yorugoPrisoner",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "yorugo_prisoner.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "yorugoBushi",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "yorugo_bushi.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "yorugoAlien",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "yorugo_alien.png",
+      "type": "free"
+    }
+  ]
+}

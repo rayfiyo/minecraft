@@ -1,0 +1,15 @@
+{
+  "header": {
+    "name": "yoskin",
+    "version": [3, 0, 0],
+    "uuid": "6f67a17c-7c39-4c2f-8d47-90866268cd0e"
+  },
+  "modules": [
+    {
+      "version": [3, 0, 0],
+      "type": "skin_pack",
+      "uuid": "5d131862-e058-4343-8341-cf73aeac6a97"
+    }
+  ],
+  "format_version": 1
+}
