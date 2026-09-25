@@ -48,3 +48,9 @@ cookies.*
 
 # --- --- --- プロジェクト毎の設定 --- --- --- #
 ignore/
+*.7zip
+*.mcaddon
+*.mcpack
+*.mcskin
+*.mcworld
+*.zip
