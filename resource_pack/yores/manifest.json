@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Invisible pumpkin blur, GUI changes, and others.",
+    "name": "yores",
+    "uuid": "b1952746-de41-3f69-8e21-4caca498ed1f",
+    "version": [6, 0, 0],
+    "min_engine_version": [1, 26, 50]
+  },
+  "modules": [
+    {
+      "description": "Invisible pumpkin blur, GUI changes, and others.",
+      "type": "resources",
+      "uuid": "310c786c-1fe2-3bb2-8aeb-2e4ec4b3098f",
+      "version": [6, 0, 0]
+    }
+  ]
+}
