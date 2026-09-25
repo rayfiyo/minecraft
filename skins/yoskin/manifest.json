@@ -1,18 +1,17 @@
 {
-  "format_version": 2,
+  "format_version": 1,
   "header": {
     "description": "yorugo skins pack.",
     "name": "yoskin",
     "uuid": "6f67a17c-7c39-4c2f-8d47-90866268cd0e",
-    "version": [4, 0, 0],
-    "min_engine_version": [1, 26, 50]
+    "version": [4, 1, 0]
   },
   "modules": [
     {
       "description": "yorugo skins pack.",
       "type": "skin_pack",
       "uuid": "5d131862-e058-4343-8341-cf73aeac6a97",
-      "version": [4, 0, 0]
+      "version": [4, 1, 0]
     }
   ]
 }
